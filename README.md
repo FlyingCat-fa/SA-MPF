@@ -1,2 +1,2 @@
 # SA-MPF
-SA-MPF: A Status-Aware Mask Prediction Framework for Online Disease Diagnosis, appear in IJCNN 2024.
+SA-MPF: A Status-Aware Mask Prediction Framework for Online Disease Diagnosis, IJCNN 2024.
