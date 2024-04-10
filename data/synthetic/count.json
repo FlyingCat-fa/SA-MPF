@@ -1,0 +1,11 @@
+{
+  "nums": 30000,
+  "train_nums": 24000,
+  "test_nums": 6000,
+  "avg_exp_nums": 1.0,
+  "max_exp_nums": 1,
+  "avg_imp_nums": 2.6,
+  "max_imp_nums": 11,
+  "sx_nums": 266,
+  "dx_nums": 90
+}
