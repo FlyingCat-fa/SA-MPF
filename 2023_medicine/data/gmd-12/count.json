@@ -1,0 +1,11 @@
+{
+  "nums": 2390,
+  "train_nums": 2151,
+  "test_nums": 239,
+  "avg_exp_nums": 2.93,
+  "max_exp_nums": 13,
+  "avg_imp_nums": 2.54,
+  "max_imp_nums": 8,
+  "sx_nums": 116,
+  "dx_nums": 12
+}
